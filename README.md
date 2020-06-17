@@ -53,3 +53,22 @@ Contributions, issues, comments and pull requests are welcome :)
 
 - Hire a professional to write your resume
   - Ask feedback for your resume
+
+## Section 2. Marketing yourself
+
+- Follow Pat Flynn's *Be everywhere* strategy
+
+- Channels for marketing yourself
+  - Write blog posts
+  - Create podcasts
+  - Create videos on sites like Youtube
+  - Write articles
+  - Write books
+  - Speak at code camps
+  - Speak at conferences
+
+- Create your own brand
+
+- Your main goal should be to add value to others
+
+- Use social media effectively
