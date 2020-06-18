@@ -172,3 +172,15 @@ Contributions, issues, comments and pull requests are welcome :)
 - Take action
   - Don't fear of being wrong.
   - Ask always: “What is the worst that could happen?”
+
+## Section 5. Financial
+
+*In progress*
+
+## Section 6. Fitness
+
+*In progress*
+
+## Section 7. Spirit
+
+*In progress*
