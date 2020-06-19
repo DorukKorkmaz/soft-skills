@@ -175,12 +175,37 @@ Contributions, issues, comments and pull requests are welcome :)
 
 ## Section 5. Financial
 
-*In progress*
+- Learn how to invest in assets instead of spending money on liabilities
+
+- First person to name a number loses in salary negotiation
 
 ## Section 6. Fitness
 
-*In progress*
+- Identify your fitness goal
+  - Lose weight (fat)
+  - Gain muscle
+  - Increase strength (not necessarily the same as gaining muscle)
+  - Increase muscular endurance (for sports performance)
+  - Improve cardiovascular health
+  - Become better at some sport
+
+- Set an achievable milestone such as losing 5 pounds a week
 
 ## Section 7. Spirit
 
-*In progress*
+- Book recommendations:
+  - Self-help and inspirational books
+    - The War of Art by Steven Pressfield
+    - How to Win Friends and Influence People by Dale Carnegie
+    - Think and Grow Rich by Napoleon Hill
+    - Psycho-Cybernetics by Maxwell Maltz
+    - The Power of Positive Thinking by Norman Vincent Peale
+    - Atlas Shrugged by Ayn Rand
+  - Software development books:
+    - Code Complete by Steve McConnell
+    - Clean Code: A Handbook of Agile Software Craftmanship by Robert Martin
+    - Head First Design Patterns by Eric Freeman, Elisabeth Robson, Bert Bates, and Kathy Sierra
+  - Investing books:
+    - The Millionaire Real Estate Investor by Gary Keller
+    - Rich Dad, Poor Dad by Robert Kiyosaki
+    - No-Hype Options Trading: Myths, Realities, and Strategies That Really Work by Kerry Given
