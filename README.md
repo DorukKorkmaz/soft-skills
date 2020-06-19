@@ -149,7 +149,7 @@ Contributions, issues, comments and pull requests are welcome :)
   - Sample routine
 
   | Time | Task |
-  | --- | --- | --- |
+  | --- | --- |
   | 7:00 AM |	Workout (run or lift weights) |
   | 8:00 AM |	Eat breakfast (M, W, F: breakfast A; T, Th: breakfast B) |
   | 9:00 AM |	Get to work and pick most important task to work on |
