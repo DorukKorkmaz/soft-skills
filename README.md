@@ -116,13 +116,13 @@ Contributions, issues, comments and pull requests are welcome :)
 
 - Use kanban board which consists of states like “Not started,” “In progress,” and “Done.”
 
-- Ignore emails
+- Ignore emails during the day
 
 - Don't use chat programs during the day
 
 - Use pomodoro technique
   - Set a goal for number of pomodoris you can do each day
-    - First benefit: You should prioritize since you have limited number of pomodoris
+    - First benefit: You should prioritize your tasks since you have limited number of pomodoris
     - Second benefit: You can relax when you hit your target. You don't need to feel guilty anymore
     - Author's goal is 10 pomodori per day
 
@@ -148,20 +148,20 @@ Contributions, issues, comments and pull requests are welcome :)
 - Have a routine 
   - Sample routine
 
-  Time | Task
-  --- | --- | ---
-  7:00 AM |	Workout (run or lift weights)
-  8:00 AM |	Eat breakfast (M, W, F: breakfast A; T, Th: breakfast B)
-  9:00 AM |	Get to work and pick most important task to work on
-  11:00 AM |	Check and respond to email
-  12:00 PM |	Eat lunch (M, T, W, Th: bring lunch; F: eat out)
-  1:00 PM |	Professional development time (research, improve skills)
-  1:30 PM |	Work on secondary work, meetings, and so on
-  5:30 PM |	Plan tasks for the next day; record work done from today
-  6:30 PM |	Eat dinner
-  7:00 PM |	Play with kids
-  9:00 PM |	Read
-  11:00 PM |	Bedtime
+  | Time | Task |
+  | --- | --- | --- |
+  | 7:00 AM |	Workout (run or lift weights) |
+  | 8:00 AM |	Eat breakfast (M, W, F: breakfast A; T, Th: breakfast B) |
+  | 9:00 AM |	Get to work and pick most important task to work on |
+  | 11:00 AM |	Check and respond to email |
+  | 12:00 PM |	Eat lunch (M, T, W, Th: bring lunch; F: eat out) |
+  | 1:00 PM |	Professional development time (research, improve skills) |
+  | 1:30 PM |	Work on secondary work, meetings, and so on |
+  | 5:30 PM |	Plan tasks for the next day; record work done from today |
+  | 6:30 PM |	Eat dinner |
+  | 7:00 PM |	Play with kids |
+  | 9:00 PM |	Read |
+  | 11:00 PM |	Bedtime |
 
 - Use the power of habit
 
