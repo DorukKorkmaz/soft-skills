@@ -17,7 +17,7 @@ Contributions, issues, comments and pull requests are welcome :)
   - Focus on being a specialist who provides a very specialized set of services to a very particular type of client.
 
 - Define goals for your career
-  - First, have a big goal such as being manager or entreprenuer
+  - First, have a big goal such as being manager or entrepreneur
   - Then, set smaller goals to reach your big goal
 
 - Improve your communication skills
